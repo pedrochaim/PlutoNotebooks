@@ -92,8 +92,8 @@ PUCupomTempoPlot(T=T,c=c,y=y)
 PUCupomTempoPlot(T=T,c=c,y=y, tipo=2)
 
 # ╔═╡ Cell order:
-# ╠═4e7da570-8358-11eb-0dcf-572b7751acc5
-# ╠═a3151c0e-8364-11eb-19e1-c54e31150bcd
-# ╠═a8674300-8364-11eb-23e0-41292cc712a8
+# ╟─4e7da570-8358-11eb-0dcf-572b7751acc5
+# ╟─a3151c0e-8364-11eb-19e1-c54e31150bcd
+# ╟─a8674300-8364-11eb-23e0-41292cc712a8
 # ╠═acf50880-8364-11eb-1b65-7d295e4ac84b
 # ╠═af721670-8364-11eb-3a6f-4bf802d8a11a
